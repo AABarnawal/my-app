@@ -26,13 +26,13 @@
     text-transform: capitalize;
     background-color: #ffffff;
     margin: 20PX 50px;
-    height: 400px;
+    height: 410px;
     padding: 0px 0px 10px 0px ;
 }
 #card_wrap:hover{
   box-shadow: 2px 2px 10px 5px rgb(46, 46, 46);
   width: 260px;
-  height: 410px;
+  height: 420px;
   transition: .5s;
 }
 img{
